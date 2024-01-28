@@ -3,4 +3,4 @@ A simple project for a secure password generator with an inputted length and spe
 
 Used to help teach password complexity such as length, upper and lowercase letters, numbers, and special characters.
 
-`Usage: Secure_Password_Generator.py <length> <-no_special_chars>
+`Usage: Secure_Password_Generator.py <length> <-no_special_chars>`
